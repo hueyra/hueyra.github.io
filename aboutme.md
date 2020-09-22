@@ -4,7 +4,10 @@
 
 #### 祝俊 [hizhuj@gmail.com](mailto:hizhuj@gmail.com)
 
-5年左右Android开发经验，参与多款App开发，主要涉及养老、教育、社交等行业。热爱新技术，拥抱行业变革。
+- 5年左右Android开发经验，有后端小程序相关经验
+- 掌握Android开发流程、运行原理、技术架构
+- 熟悉音视频、实时音视频、人脸识别、语音、IM、互动直播等技术
+- 了解Kotlin、Jetpack、Springboot、小程序、Vuejs、Python
 
 ------------
 
